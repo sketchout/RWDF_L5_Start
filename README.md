@@ -1,6 +1,6 @@
 # RWDF_L5_Start final project 
 
-This project is share on the forum.
+This project of responsive web design fundamentals for sharing on the forum.
 
 - update.css 
     : added mainly
@@ -9,10 +9,9 @@ This project is share on the forum.
     : small changed
     
   
-If you don't want to see the outline,
-please remove the outline in the update.css as below.
+Don't want to see the outline, please remove the outline in the update.css as like below.
 
-* {
-	outline: 1px solid red !important;
-}
+	* {
+		outline: 1px solid red !important;
+	}
 
